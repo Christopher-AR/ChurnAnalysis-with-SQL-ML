@@ -67,12 +67,11 @@ This dashboard helps businesses:
 #  Dashboard Preview
 
 ## Churn Analysis Dashboard
-
-
+Summary- https://github.com/Christopher-AR/ChurnAnalysis-with-SQL-ML/blob/main/Summary.png
+Tooltip- https://github.com/Christopher-AR/ChurnAnalysis-with-SQL-ML/blob/main/Tooltip%20for%20Category%20Reason.png
 
 ## Churn Prediction Dashboard
-
-
+Prediction- https://github.com/Christopher-AR/ChurnAnalysis-with-SQL-ML/blob/main/Prediction.png
 
 # Machine Learning Model
 
